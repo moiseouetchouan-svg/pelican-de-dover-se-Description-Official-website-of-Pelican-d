@@ -1,0 +1,27 @@
+PELICAN DE DOVER SE — PREMIER PROTOTYPE DU SITE
+
+Contenu :
+- index.html : site responsive en français.
+- assets/logo-pelican.png : emblème retenu dans la conversation.
+
+OUVRIR LE SITE
+1. Décompressez le fichier ZIP.
+2. Ouvrez le dossier pelican_site.
+3. Ouvrez index.html dans Chrome, Edge ou Firefox.
+
+ESPACE ADMIN DE DÉMONSTRATION
+- Cliquez sur « Espace admin ».
+- Code de démonstration : 2468.
+- Vous pouvez tester le remplacement de la photo d'accueil, l'ajout de joueurs et d'actualités.
+
+IMPORTANT — AVANT PUBLICATION
+Ce prototype enregistre les modifications dans le stockage local du navigateur (localStorage). Ce n'est PAS encore un véritable système d'administration multi-utilisateur : les changements ne sont pas synchronisés entre visiteurs, téléphones et ordinateurs. Le code 2468 est public et ne protège pas un vrai site. Avant de mettre le site en ligne pour le club, il faudra connecter une authentification sécurisée, une base de données et un stockage d'images (par exemple un service gratuit avec limites d'usage). Ne mettez pas de données personnelles sensibles dans cette démonstration.
+
+HÉBERGEMENT
+Le site statique pourra être publié gratuitement sur Cloudflare Pages ou Netlify. Le déploiement public et la connexion d'un vrai back-office restent à faire.
+
+À CONFIRMER PLUS TARD
+- Adresse précise du terrain (le lien Google Maps est conservé comme bouton).
+- Coordonnées publiques du club.
+- Photos réelles du club et des joueurs, avec leur accord.
+- Calendrier, résultats et horaires d'entraînement.
